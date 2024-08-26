@@ -1,3 +1,3 @@
-  this skills bar for resume
+   this skills bar for resume
  
  
